@@ -42,11 +42,15 @@ I enjoy building structured learning systems, experimenting with models, and con
 
 ## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bishwaghimire&show_icons=true&hide_title=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bishwaghimire&layout=compact)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=bishwaghimire)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bishwaghimire&show_icons=true&hide_title=true&cache_seconds=86400)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bishwaghimire&show_icons=true&theme=default&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bishwaghimire&layout=compact&theme=default&hide_border=true)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bishwaghimire&theme=default)
+![GitHub Streak](https://streak-stats.demolab.com?user=bishwaghimire)
+
 
 
 ---
@@ -54,9 +58,10 @@ I enjoy building structured learning systems, experimenting with models, and con
 ## 🔗 Connect With Me
 
 - GitHub: https://github.com/bishwaghimire  
-- LinkedIn: *(add link)*  
-- Facebook: *(optional — only if professional)*  
+- LinkedIn: 
+
 
 ---
 
 ⭐ *This profile is actively maintained and reflects my continuous learning and research journey.*
+
