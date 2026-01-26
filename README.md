@@ -16,6 +16,8 @@ I am a Computer Science student with a strong interest in **Artificial Intellige
 
 I enjoy building structured learning systems, experimenting with models, and continuously improving my understanding of modern AI techniques.
 
+> "I teach machines to learn—and myself to survive the bugs."
+ 
 ---
 
 
@@ -51,6 +53,7 @@ I enjoy building structured learning systems, experimenting with models, and con
 ---
 
 ⭐ *This profile is actively maintained and reflects my continuous learning and research journey.*
+
 
 
 
