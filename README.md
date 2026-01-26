@@ -12,9 +12,9 @@
   
 ## 👨‍🎓 About Me
 
-I am a Computer Science student with a strong interest in **Artificial Intelligence, Machine Learning, and Data Science**, focusing on **research-driven learning**, solid fundamentals, and **real-world problem solving**.
+I am a Computer Science student with a strong interest in **Artificial Intelligence, Machine Learning, and Data Science**, focusing on **research-driven learning**, strong theoretical foundations, and **real-world problem solving**.
 
-I enjoy building structured learning systems, experimenting with models, and continuously improving my understanding of modern AI techniques.
+I enjoy building structured learning systems, experimenting with models, reading research papers, and continuously improving my understanding of modern AI systems.
 
 > "I teach machines to learn—and myself to survive the bugs."
  
@@ -53,6 +53,7 @@ I enjoy building structured learning systems, experimenting with models, and con
 ---
 
 ⭐ *This profile is actively maintained and reflects my continuous learning and research journey.*
+
 
 
 
