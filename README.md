@@ -49,13 +49,15 @@ I enjoy building structured learning systems, experimenting with models, reading
 
 ## 🔗 Connect With Me
 
-- GitHub: https://github.com/bishwaghimire  
-- LinkedIn: 
+- Website: https://www.bishwaghimire.com.np/
+- LinkedIn: https://www.linkedin.com/in/bishwa-ghimire-66bb5939b
+- Facebook: https://www.facebook.com/bishwaghimire4560
 
 
 ---
 
 ⭐ *This profile is actively maintained and reflects my continuous learning and research journey.*
+
 
 
 
