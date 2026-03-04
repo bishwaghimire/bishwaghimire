@@ -27,17 +27,21 @@ I enjoy building structured learning systems, experimenting with models, reading
 
 ### Nepali Handwritten Character Recognition (CNN)
 🔗 [View Repository](https://github.com/yourusername/projectname)
--  Designed and trained a custom CNN architecture using PyTorch
+- Designed and trained a custom CNN architecture using PyTorch
 - Performed character-wise accuracy analysis across 59 classes
 - Implemented train/validation/test split with reproducible preprocessing pipeline
 - Evaluated using confusion matrix and per-class metrics
+- Achieved 98.92% test accuracy on held-out test set (126k+ total images across 59 classes)
+
+Tech Stack: Python, PyTorch, NumPy, Matplotlib
 
 ### Sentiment Analysis for Nepali Text
-- Built complete NLP pipeline: scraping, preprocessing, manual labeling
+- Designed and implemented a complete NLP pipeline: scraping, preprocessing, manual labeling
 - Implemented TF-IDF + Logistic Regression baseline
 - Compared against LSTM/Deep Learning model
 - Evaluated using precision, recall, F1-score
 
+Tech Stack: Python, Scikit-learn, PyTorch, Pandas
 
 ---
 
