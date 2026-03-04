@@ -18,9 +18,43 @@ I enjoy building structured learning systems, experimenting with models, reading
 
 > "I teach machines to learn—and myself to survive the bugs."
 
-> ⚡ Call me when others are wasting time sleeping — I’ll be training models and chasing the future of AI.
+> ⚡ Currently exploring deep learning architectures and research-focused ML systems.
 
  
+---
+
+## 🚀 Featured Projects
+
+### Nepali Handwritten Character Recognition (CNN)
+🔗 [View Repository](https://github.com/yourusername/projectname)
+-  Designed and trained a custom CNN architecture using PyTorch
+- Performed character-wise accuracy analysis across 59 classes
+- Implemented train/validation/test split with reproducible preprocessing pipeline
+- Evaluated using confusion matrix and per-class metrics
+
+### Sentiment Analysis for Nepali Text
+- Built complete NLP pipeline: scraping, preprocessing, manual labeling
+- Implemented TF-IDF + Logistic Regression baseline
+- Compared against LSTM/Deep Learning model
+- Evaluated using precision, recall, F1-score
+
+
+---
+
+## 🔬 Research Interests
+- Computer Vision
+- Deep Learning Architectures
+- NLP for Low-Resource Languages
+- AI for Nepali Language Processing
+
+
+---
+
+## 📚 Currently Learning
+- Advanced Deep Learning (CNN architectures, optimization techniques)
+- Research Paper Implementation
+- Mathematical Foundations for Machine Learning
+
 ---
 
 
