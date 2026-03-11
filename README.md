@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Bishwa Ghimire 👨‍💻
+# 👋 Hi, I'm Bishwa Ghimire
 
 **BSc CSIT Student @ Tribhuvan University, Nepal**  
 **Machine Learning & Deep Learning Enthusiast | Aspiring AI Researcher**
@@ -95,6 +95,7 @@ Tech Stack: Python, Scikit-learn, PyTorch, Pandas
 ---
 
 ⭐ *This profile is actively maintained and reflects my continuous learning and research journey.*
+
 
 
 
