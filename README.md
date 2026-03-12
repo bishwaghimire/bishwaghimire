@@ -26,7 +26,7 @@ I enjoy building structured learning systems, experimenting with models, reading
 ## 🚀 Featured Projects
 
 ### Nepali Handwritten Character Recognition (CNN)
-🔗 [View Repository](https://github.com/yourusername/projectname)
+🔗 [View Repository](https://github.com/bishwaghimire/nepali-handwritten-character-recognition-CNNs)
 - Designed and trained a custom CNN architecture using PyTorch
 - Performed character-wise accuracy analysis across 59 classes
 - Implemented train/validation/test split with reproducible preprocessing pipeline
@@ -95,6 +95,7 @@ Tech Stack: Python, Scikit-learn, PyTorch, Pandas
 ---
 
 ⭐ *This profile is actively maintained and reflects my continuous learning and research journey.*
+
 
 
 
